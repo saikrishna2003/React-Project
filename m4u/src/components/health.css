@@ -1,4 +1,4 @@
-h1{
+.hhhead{
     text-align: center;
     font-size: 40px;
     margin-left: 5px;
@@ -6,35 +6,47 @@ h1{
     margin-top: 30px;
 
 }
-h2{
+.hhmain h2{
     margin-top: 30px;
     margin-left: 10px;
     margin-right: 10px;
 }
-img{
+.hhnext h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hhimage img{
     display: flex;
     margin-left: 23%;
     height: 500px;
     width: 50%;
     
 }
-.icon img{
+.hhicon img{
     margin-left: 5%;
    height: 170px;
     width: 180vh;
 }
-.main{
+.hhmain{
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
     font-size: 100;
 }
-.sub{
+.hhsub h3{
     text-align: center;
-}
-.next{
-    text-align: center;
+    font-weight: 100;
+    margin-bottom: 5%;
     margin-left: 5%;
     margin-right: 5%;
 }
-
+.hhnext{
+    text-align: center;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+.wwname h1{
+    margin-top: 40px;
+    font-size: 30px;
+}
