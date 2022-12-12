@@ -1,0 +1,57 @@
+.head{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+.sub{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: 500;
+}
+
+
+.art{
+    text-align: center;
+    font-size: 40px;
+}
+
+.art1{
+    margin-top: 8%;
+
+}
+
+.art1 img{
+    height: 300px;
+    float: left;
+    margin-left: 7%;
+    margin-top: -1%;
+    padding-top: 1%;
+}
+
+.art1 img:hover{
+   transform: scale(1.1);
+   transition:ease-in-out 0.2s;
+}
+.art1 h4:hover{
+   transform: scale(1.2);
+   transition:ease-in-out 0.2s;
+}
+
+.art1 h4{
+    font-size: 40px;
+    margin-left: 40%;
+    margin-right: 9%;
+}
+.info{
+    margin-left: 42%;
+    margin-right: 20%;
+}
+.art1 info h4:hover{
+    transform: scale(1.2);
+    transition:ease-in-out 0.2s ;
+}
+.dash{
+    text-align: center;
+}
